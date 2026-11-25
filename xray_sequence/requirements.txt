@@ -1,0 +1,4 @@
+pyusb
+libusb-package
+# only to build the .exe files:
+pyinstaller
